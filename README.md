@@ -18,4 +18,4 @@ A memory-safe, fault-tolerant, industrial-grade data processing engine for large
 ## Installation
 
 ```bash
-pip install smartdata-engine
+pip install althenaxavier
