@@ -206,6 +206,6 @@ Add this at the **top of README**.
 ```markdown
 ![Python](https://img.shields.io/badge/Python-3.8+-blue)
 ![License](https://img.shields.io/badge/License-MIT-green)
-![PyPI](https://img.shields.io/badge/PyPI-Live-orange)
+![PyPI]()
 ![Status](https://img.shields.io/badge/Status-Stable-brightgreen)
 ``
