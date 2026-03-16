@@ -1,6 +1,6 @@
 
 ````markdown
-# 🚀 AlthenaXavier
+# AlthenaXavier
 
 > Industrial-grade AI-ready Big Data Processing Engine for Large CSV Files
 
@@ -8,7 +8,7 @@ AlthenaXavier is a lightweight yet powerful data processing engine built for han
 
 ---
 
-## ✨ Features
+## Features
 
 - ⚡ High-performance CSV processing
 - 📦 Adaptive chunk-based data streaming
@@ -21,7 +21,7 @@ AlthenaXavier is a lightweight yet powerful data processing engine built for han
 
 ---
 
-## 📦 Installation
+## Installation
 
 Install directly from PyPI:
 
@@ -52,7 +52,7 @@ Result: 500.35
 
 ---
 
-## 🔧 Supported Operations
+## Supported Operations
 
 | Operation | Description              |
 | --------- | ------------------------ |
@@ -64,7 +64,7 @@ Result: 500.35
 
 ---
 
-## 🏗 Architecture Overview
+## Architecture Overview
 
 AlthenaXavier processes large datasets using a chunk-based streaming architecture.
 
@@ -79,7 +79,7 @@ Key components:
 
 ---
 
-## 📊 Performance
+## Performance
 
 Test Results:
 
@@ -91,7 +91,7 @@ Test Results:
 
 ---
 
-## 🌍 Applications
+## Applications
 
 * Big Data Analytics
 * Data Engineering Pipelines
@@ -101,7 +101,7 @@ Test Results:
 
 ---
 
-## 🧠 Technologies Used
+## Technologies Used
 
 * Python
 * Pandas
@@ -112,7 +112,7 @@ Test Results:
 
 ---
 
-## 🔮 Future Roadmap
+## Future Roadmap
 
 * AI-powered analytics module
 * Distributed processing support
@@ -122,7 +122,7 @@ Test Results:
 
 ---
 
-## 👨‍💻 Author
+## Author
 
 **Arul Gnanakumar**
 
@@ -134,24 +134,24 @@ Passionate about:
 
 ---
 
-## 📜 License
+## License
 
 MIT License
 
 ---
 
-⭐ If you like this project, consider giving it a star!
+ If you like this project, consider giving it a star!
 
 ````
 
 ---
 
-# 🧩 Project Architecture Diagram (For README / Poster)
+# Project Architecture Diagram (For README / Poster)
 
 Add this **below the Architecture section**.
 
 ```markdown
-## 🏗 System Architecture
+## System Architecture
 
 ````
 
@@ -199,7 +199,7 @@ Add this **below the Architecture section**.
 
 ---
 
-# 🔥 Optional GitHub Badges (Makes README Look Pro)
+# Optional GitHub Badges (Makes README Look Pro)
 
 Add this at the **top of README**.
 
