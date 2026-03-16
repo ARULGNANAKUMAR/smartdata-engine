@@ -10,14 +10,14 @@ AlthenaXavier is a lightweight yet powerful data processing engine built for han
 
 ## Features
 
-- ⚡ High-performance CSV processing
-- 📦 Adaptive chunk-based data streaming
-- 🧠 AI-ready architecture
-- 🖥 Command Line Interface (CLI)
-- 🧪 Data validation and logging
-- 📊 Efficient analytics operations
-- 📈 Scalable big-data friendly design
-- 📦 Published as a Python package
+- High-performance CSV processing
+- Adaptive chunk-based data streaming
+- AI-ready architecture
+- Command Line Interface (CLI)
+- Data validation and logging
+- Efficient analytics operations
+- Scalable big-data friendly design
+- Published as a Python package
 
 ---
 
@@ -31,7 +31,7 @@ pip install althenaxavier
 
 ---
 
-## ⚙️ Usage
+## Usage
 
 Basic example:
 
@@ -210,4 +210,4 @@ Add this at the **top of README**.
 ![Status](https://img.shields.io/badge/Status-Stable-brightgreen)
 ```
 
-Just tell me — we can turn this into a **portfolio-level project**. 🚀
+Just tell me — we can turn this into a **portfolio-level project**.
